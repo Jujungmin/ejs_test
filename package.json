@@ -1,0 +1,23 @@
+{
+  "name": "ejs_test",
+  "version": "1.0.0",
+  "description": "1. node 설치\r 2. `npm install ejs`",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jujungmin/ejs_test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jujungmin/ejs_test/issues"
+  },
+  "homepage": "https://github.com/Jujungmin/ejs_test#readme",
+  "dependencies": {
+    "ejs": "^3.1.8",
+    "express": "^4.18.1"
+  }
+}

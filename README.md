@@ -1,2 +1,6 @@
 # ejs_test
-ejs  TEST
+
+### ejs 설치
+1. node 설치
+2. `npm install ejs`
+
